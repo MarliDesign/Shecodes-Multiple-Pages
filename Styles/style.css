@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+}
+h1,
+h2 {
+  text-align: center;
+}
+h2 {
+  font-size: 18px;
+}
+img {
+  display: block;
+  margin: auto 0;
+}
+.links {
+  text-align: center;
+}
